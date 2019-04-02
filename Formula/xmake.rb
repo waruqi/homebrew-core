@@ -2,7 +2,7 @@ class Xmake < Formula
   desc "A cross-platform build utility based on Lua"
   homepage "https://xmake.io/"
   url "https://github.com/xmake-io/xmake/archive/v2.2.5.tar.gz"
-  sha256 "20e9bd6684be429d20cda69ff16e0fdacaaade80760a87c9e42b54e3661f214e"
+  sha256 "1c7ce3da87c03ce9d6be20b67561421039865c8de87fc4db1f94d934c22aacf4"
   head "https://github.com/xmake-io/xmake.git"
 
   bottle do
