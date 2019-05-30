@@ -3,6 +3,7 @@ class Xmake < Formula
   homepage "https://xmake.io/"
   url "https://github.com/xmake-io/xmake/archive/v2.2.6.tar.gz"
   sha256 "558a43b70d90503ba2e1a11af10d5f93772102850ee6790201fa329d174342f0"
+  revision 1
   head "https://github.com/xmake-io/xmake.git"
 
   bottle do
